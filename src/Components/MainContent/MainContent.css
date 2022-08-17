@@ -1,0 +1,8 @@
+@media only screen and (min-width:1369px){
+    .main-content{
+        display: flex;
+    }
+}
+.main-content{
+    margin-top: 100px;
+}
